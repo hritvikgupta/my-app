@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+LInk to the website:https://travellocate.netlify.app
 ## Available Scripts
 
 In the project directory, you can run:
